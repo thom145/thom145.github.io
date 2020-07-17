@@ -1,19 +1,9 @@
 /*----------------------------------------------------
-@File: Default Styles
-@Author: Rocky Ahmed
-@URL: http://wethemez.com
-Author E-mail: rockybd1995@gmail.com
-
 This file contains the styling for the actual theme, this
 is the file you need to edit to change the look of the
 theme.
 ---------------------------------------------------- */
 /*=====================================================================
-@Template Name: Builder Construction
-@Author: Rocky Ahmed
-@Developed By: Rocky Ahmed
-@Developer URL: http://rocky.wethemez.com
-Author E-mail: rockybd1995@gmail.com
 
 @Default Styles
 
@@ -2573,7 +2563,7 @@ h6 {
       font-weight: 500;
       color: #fff;
       font-family: "Roboto", sans-serif;
-      border: 1px solid #9ab5f5;
+      border: 1px solid #ffffff;
       background: rgba(255, 255, 255, 0.1); }
       .tabs_inner .nav.nav-tabs li a.active {
         background: #fff;
